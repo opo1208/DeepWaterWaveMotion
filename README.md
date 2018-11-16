@@ -1,7 +1,8 @@
 # DeepWaterWaveMotion
 The trajectories of the Deep-Water Wave Motion are shown in Matlab code.
 
-# Physical Parameter Descriptions
+# Physical Descriptions
+eta = cos (kx-wt)
 1. Wave Length = 100.0 meters
 2. Wave Period = 10.0 seconds
 3. Wave Amplitude = 0.5 meters
