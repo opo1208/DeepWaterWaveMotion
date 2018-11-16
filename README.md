@@ -2,7 +2,7 @@
 The trajectories of the Deep-Water Wave Motion are shown in Matlab code.
 
 # Physical Descriptions
-The surface elevation is specified as the cos funtion, which is depend on the wave number, the angular frequency, and the wave amplitutde. The wave motion is satisfied by the deep-wave wave motion
+The surface elevation is specified as the cos funtion, which is depend on the wave number, the angular frequency, and the wave amplitutde. The wave motion is satisfied by the deep-wave wave motion by adopting the linear wave theory (dispersion relationship).
 1. Wave Length = 100.0 meters
 2. Wave Period = 10.0 seconds
 3. Wave Amplitude = 0.5 meters
