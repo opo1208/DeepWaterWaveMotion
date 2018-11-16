@@ -2,9 +2,9 @@
 The trajectories of the Deep-Water Wave Motion are shown in Matlab code.
 
 # Physical Parameter Descriptions
-Wave Length = 100.0 meters
-Wave Period = 10.0 seconds
-Wave Amplitude = 0.5 meters
+1. Wave Length = 100.0 meters
+2. Wave Period = 10.0 seconds
+3. Wave Amplitude = 0.5 meters
 
 # Code Descriptions
 1. DeepWaterWaveMotion_NoStokesDrift.m -> Deep-Water wave's motion without the Stokes Drift.
