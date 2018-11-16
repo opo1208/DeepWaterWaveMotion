@@ -1,3 +1,6 @@
+% Deep-Water Wave Motion with the Stokes Drift
+% Created by Yu-Lin Tsai (NCU, Taiwan)
+
 clc; clear; fclose all; close all;
 
 % Physical Parameters
