@@ -1,6 +1,5 @@
-% Deep-Water Wave Motion
-%
-%
+% Deep-Water Wave Motion without the Stokes Drift
+% Created by Yu-Lin Tsai (NCU, Taiwan)
 
 clc; clear; fclose all; close all;
 
